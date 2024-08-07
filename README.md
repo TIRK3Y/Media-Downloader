@@ -1,4 +1,4 @@
-# Media-Downloader
+# Video-Downloader
 
 Note
 To be Installed in the File Directory (pytube)
